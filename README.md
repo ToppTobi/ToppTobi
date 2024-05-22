@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me, TikTok: _kxwii_
+- 📫 How to reach me, TikTok: *_kxwii_*
 - ⚡ Fun fact: I am not a good progammer
 
 <!---
