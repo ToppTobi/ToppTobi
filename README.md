@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToppTobi
 - 👀 Have a new hobby every two weeks
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning gdscript
 - 📫 How to reach me, TikTok: _ kxwii _
 
 <!---
